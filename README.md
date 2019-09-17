@@ -1,6 +1,5 @@
-# Autor Carlos Servín; para sugerencias, mejoras, propuestas de trabajo, etc. Contactame a:
-# www.servin.mx
-# carlos@servin.mx
+ Autor Carlos Servín; para sugerencias, mejoras, propuestas de trabajo, etc. Contactame a:
+ www.servin.mx carlos@servin.mx
 
 Los archivos se deberán subir por ftp a la siguiente ruta:
 
